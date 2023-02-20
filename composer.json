@@ -1,0 +1,21 @@
+{
+    "name": "carltonsoftware/tabs2-php-client",
+    "description": "Tabs 2 PHP Client",
+    "homepage": "https://github.com/CarltonSoftware/tabs2-php-client",
+    "license": "proprietary",
+    "type": "library",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5",
+        "guzzlehttp/guzzle": "~6.0",
+        "sainsburys/guzzle-oauth2-plugin": "~3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "tabs\\apiclient\\": "src/"
+        }
+    }
+}
