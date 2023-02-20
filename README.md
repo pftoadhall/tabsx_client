@@ -12,10 +12,10 @@ To get started with this project you will need to install the client via compose
     {
         "repositories": [{
             "type": "vcs",
-            "url": "git@github.com:carltonsoftware/tabs2-php-client.git"
+            "url": "git@github.com:pftoadhall/tabsx_php_client_legacy.git"
         }],
         "require": {
-            "carltonsoftware/tabs2-php-client": "dev-master"
+            "pftoadhall/tabsx_php_client_legacy": "dev-master"
         }
     }
     ```
