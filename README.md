@@ -1,1 +1,1 @@
-TABS X PHP V1 Client
+TABS X PHP V1/Legacy Client
